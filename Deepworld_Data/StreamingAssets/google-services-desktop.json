@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "910523257135",
+    "firebase_url": "https://api-7180491311850900111-402095.firebaseio.com",
+    "project_id": "api-7180491311850900111-402095",
+    "storage_bucket": "api-7180491311850900111-402095.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910523257135:android:247bf49b3358048f",
+        "android_client_info": {
+          "package_name": "com.bytebin.deepworld_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910523257135-0ecqcr0cgfvr6dfbrqjd00u0f60ftsng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeUSt7CsrG8I18Mq8zpEDktDyF0ndXz34"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
